@@ -2,4 +2,4 @@
 
 
 
-![Netowrk and Topology Diagram](Images/Splunk-Project-Diagram.png)
+![Netowrk and Topology Diagram](Images-Used(Ignore!)/Splunk_Project_Diagram.png)
